@@ -1,0 +1,28 @@
+{
+  "name": "ui-automation-testing",
+  "version": "1.0.0",
+  "description": "tugas ui automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufbtr/ui-automation-testing.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "yusufb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufbtr/ui-automation-testing/issues"
+  },
+  "homepage": "https://github.com/yusufbtr/ui-automation-testing#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
